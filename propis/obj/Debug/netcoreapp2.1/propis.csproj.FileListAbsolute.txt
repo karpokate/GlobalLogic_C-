@@ -1,0 +1,11 @@
+C:\Users\alexz\source\repos\propis\propis\bin\Debug\netcoreapp2.1\propis.deps.json
+C:\Users\alexz\source\repos\propis\propis\bin\Debug\netcoreapp2.1\propis.runtimeconfig.json
+C:\Users\alexz\source\repos\propis\propis\bin\Debug\netcoreapp2.1\propis.runtimeconfig.dev.json
+C:\Users\alexz\source\repos\propis\propis\bin\Debug\netcoreapp2.1\propis.dll
+C:\Users\alexz\source\repos\propis\propis\bin\Debug\netcoreapp2.1\propis.pdb
+C:\Users\alexz\source\repos\propis\propis\obj\Debug\netcoreapp2.1\propis.csprojAssemblyReference.cache
+C:\Users\alexz\source\repos\propis\propis\obj\Debug\netcoreapp2.1\propis.csproj.CoreCompileInputs.cache
+C:\Users\alexz\source\repos\propis\propis\obj\Debug\netcoreapp2.1\propis.AssemblyInfoInputs.cache
+C:\Users\alexz\source\repos\propis\propis\obj\Debug\netcoreapp2.1\propis.AssemblyInfo.cs
+C:\Users\alexz\source\repos\propis\propis\obj\Debug\netcoreapp2.1\propis.dll
+C:\Users\alexz\source\repos\propis\propis\obj\Debug\netcoreapp2.1\propis.pdb
